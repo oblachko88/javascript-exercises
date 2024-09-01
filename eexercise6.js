@@ -12,3 +12,5 @@ console.log(makeNewString('abcdefgasds'));
 console.log(makeNewString('abc213213asd21as22'));
 
 console.log(makeNewString('ab'));
+
+console.log('Hello world.')
