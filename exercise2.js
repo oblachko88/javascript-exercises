@@ -6,4 +6,7 @@ console.log(sliceStringFromBehindUntilSignal('print.config.js'));
 const process = require();
 
 
-214241421
+
+
+
+214241421пше иш
